@@ -265,6 +265,9 @@ npm remove cors
   root directory: /backend
 
 6. Add the build:ui script
+    "build:ui": "rm -rf dist && cd ../Frontend/ && npm run build && cp -r dist ../backend",
+    "deploy:full": "npm run build:ui && git add . && git commit -m deploy && git push",
+  deploy:full rehace la ui y hace add&commit&push, pero el git add . es solo de la carpeta /backend
 
 7. Probar los test.rest
 /**/
