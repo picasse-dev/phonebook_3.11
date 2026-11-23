@@ -1,21 +1,21 @@
 ### 3.1
-GET https://phonebook-3-10-x8q3.onrender.com/api/persons
+GET https://phonebook-3-11.onrender.com/api/persons
 content-type: application/json
 
 ### 3.2
-GET https://phonebook-3-10-x8q3.onrender.com/api/persons/info
+GET https://phonebook-3-11.onrender.com/api/persons/info
 content-type: application/json
 
 ### 3.3
-GET https://phonebook-3-10-x8q3.onrender.com/api/persons/1
+GET https://phonebook-3-11.onrender.com/api/persons/1
 content-type: application/json
 
 ### 3.4
-DELETE https://phonebook-3-10-x8q3.onrender.com/api/persons/2
+DELETE https://phonebook-3-11.onrender.com/api/persons/2
 content-type: aplication/json
 
 ### 3.5
-POST https://phonebook-3-10-x8q3.onrender.com/api/persons
+POST https://phonebook-3-11.onrender.com/api/persons
 content-type: application/json
 
 {
@@ -24,7 +24,7 @@ content-type: application/json
 }
 
 ### extra put
-PUT https://phonebook-3-10-x8q3.onrender.com/api/persons/1
+PUT https://phonebook-3-11.onrender.com/api/persons/1
 Content-Type: application/json
 
 { 
@@ -33,7 +33,7 @@ Content-Type: application/json
 }
 
 ### extra patch
-PATCH https://phonebook-3-10-x8q3.onrender.com/api/persons/1
+PATCH https://phonebook-3-11.onrender.com/api/persons/1
 Content-Type: application/json
 
 { 
@@ -41,7 +41,7 @@ Content-Type: application/json
 }
 
 ### extra patch 2
-PATCH https://phonebook-3-10-x8q3.onrender.com/api/persons/1
+PATCH https://phonebook-3-11.onrender.com/api/persons/1
 Content-Type: application/json
 
 { 

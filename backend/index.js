@@ -265,6 +265,8 @@ npm remove cors
   root directory: /backend
 
 6. Add the build:ui script
+
+7. Probar los test.rest
 /**/
 
 
