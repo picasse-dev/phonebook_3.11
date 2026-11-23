@@ -260,7 +260,9 @@ npm remove cors
 (-) const cors = require('cors') //removed from index.js
 (-) app.use(cors()) //removed from index.js
 
-5. Deplay again in render
+5. Deplay again in render but in 3.11 REPO
+  git remote add origin https://github.com/picasse-dev/phonebook_3.11.git
+  root directory: /backend
 
 6. Add the build:ui script
 /**/
