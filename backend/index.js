@@ -270,6 +270,8 @@ npm remove cors
   deploy:full rehace la ui y hace add&commit&push, pero el git add . es solo de la carpeta /backend
 
 7. Probar los test.rest
+
+Al igual que el 3.10 borrare el .git de phonebook_3.11 y dejare la carpeta en /PART3, sin embargo el repositorio y el despliegue los dejo activos
 /**/
 
 
