@@ -10,7 +10,6 @@ The application consists of a RESTful API and a React frontend. The backend hand
 
 **Contacts API:** [Phonebook API](https://phonebook-3-11.onrender.com//api/persons)
 
-> Replace `YOUR_RENDER_URL` with the actual Render deployment URL once the application is deployed.
 
 ## Technologies
 
